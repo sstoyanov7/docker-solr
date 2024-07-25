@@ -1,5 +1,5 @@
 
-FROM openjdk:11-jre
+FROM openjdk:23-ea-30-oraclelinux8
 
 LABEL maintainer="The Apache Lucene/Solr Project"
 LABEL repository="https://github.com/docker-solr/docker-solr"
